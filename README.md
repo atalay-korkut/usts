@@ -6,9 +6,9 @@ Code of my bachelor's thesis on "Semi-supervised Instance Segmentation and Track
 
 It uses 3 different tools for segmentation: SAM, SAMUS and SAMMed
 
-Usage:
+### Usage:
 
-GUI:
+#### GUI:
 
 SAMMed: Segment-and-Track-Anything/app_sammed_manual_box.py
 
@@ -16,7 +16,7 @@ SAM: Segment-and-Track-Anything/app_sammed_manual_box.py
 
 SAMUS: Segment-and-Track-Anything/app.py
 
-Terminal: 
+#### Terminal: 
 
 SAMMed: Segment-and-Track-Anything/cli_sammedtrack.py
 
