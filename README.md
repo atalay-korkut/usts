@@ -6,6 +6,16 @@ Code of my bachelor's thesis on "Semi-supervised Instance Segmentation and Track
 
 It uses 3 different tools for segmentation: SAM, SAMUS and SAMMed
 
+### Setup
+
+requirements.txt TODO
+
+SAM Weights: https://github.com/facebookresearch/segment-anything?tab=readme-ov-file#model-checkpoints
+
+SaMMed Weights: https://github.com/OpenGVLab/SAM-Med2D
+
+SAMUS Weights: TODO
+
 ### Usage:
 
 #### GUI:
