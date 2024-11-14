@@ -33,3 +33,7 @@ SAMMed: Segment-and-Track-Anything/cli_sammedtrack.py
 SAM: Segment-and-Track-Anything/cli_samtrack.py
 
 SAMUS: Segment-and-Track-Anything/cli_samustrack.py
+
+input_video: path of input video
+point inputs x,y,mode (e.g., 100,100,1) ,The mode indicates whether the point is positive (1) or negative (0)
+bbox inputs x1,y1,x2,y2 (e.g., 100,100;200,200)
