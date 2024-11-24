@@ -14,7 +14,7 @@ SAM Weights: https://github.com/facebookresearch/segment-anything?tab=readme-ov-
 
 SaMMed Weights: https://github.com/OpenGVLab/SAM-Med2D
 
-SAMUS Weights: TODO
+SAMUS Weights: https://drive.google.com/file/d/1Y-5YokdrAAfvK3qmfpi5OtikpTTp1TQc/
 
 ### Usage:
 
