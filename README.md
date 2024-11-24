@@ -8,7 +8,9 @@ It uses 3 different tools for segmentation: SAM, SAMUS and SAMMed
 
 ### Setup
 
-requirements.txt TODO
+conda env create --name SAMUS -f environment.yml
+conda activate SAMUS
+pip install -r requirements.txt
 
 SAM Weights: https://github.com/facebookresearch/segment-anything?tab=readme-ov-file#model-checkpoints
 
